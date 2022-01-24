@@ -1,0 +1,6 @@
+== Scope
+The TIFF format can store many images in a single file.
+It is possible to interpret those different images as different two-dimensional slices in a three-dimensional data cube.
+The process can be extended to more than three dimensions.
+This document defines new elements in the TIFF `GDAL_METADATA` tag for describing how the two-dimensional slices
+are connected in a multi-dimensional data cube.

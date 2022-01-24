@@ -1,0 +1,13 @@
+== Normative material
+No normative material yet.
+Following is a template for future work.
+
+=== Requirement Class A
+TODO: intro text for the requirement class.
+
+include::requirements/requirements_class.adoc[]
+
+==== Requirement 1
+TODO: intro text for the requirement.
+
+include::requirements/requirement.adoc[]

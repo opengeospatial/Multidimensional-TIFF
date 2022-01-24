@@ -1,0 +1,2 @@
+== Conformance
+This Discussion Paper does not define conformance class yet.

@@ -1,0 +1,36 @@
+== Terms and Definitions
+This document uses the terms defined in Sub-clause 5.3 of  [OGC 06-121r8],
+which is based on the ISO/IEC Directives, Part 2,
+Rules for the structure and drafting of International Standards.
+In particular, the word “shall” (not “must”) is the verb form used to indicate
+a requirement to be strictly followed to conform to this Best Practice.
+
+For the purposes of this document, the following additional terms and definitions apply.
+
+**cell** +
+Rectangular area in raster space, in which a single pixel value is filled. +
+ [Source: GeoTIFF Format Specification 1.0]
+
+**coordinate** +
+One of a sequence of numbers designating the position of a point. +
+ [Source: ISO 19111:2019, 3.1.5]
+
+**coordinate reference system** +
+Coordinate system that is related to an object by a datum. +
+ [Source: ISO 19111:2019, 3.1.9]
+
+**geokey** +
+In GeoTIFF, a GeoKey is equivalent in function to a TIFF tag, but uses a different storage mechanism. +
+ [Source: GeoTIFF Format Specification 1.0]
+
+**GeoTIFF** +
+Standard for storing georeference and geocoding information in a TIFF 6.0 compliant raster file. +
+ [Source: GeoTIFF Format Specification 1.0]
+
+**raster** +
+Usually rectangular pattern of parallel scanning lines forming or corresponding to the display on a cathode ray tube. +
+ [Source: ISO 19123:2005, 4.1.30]
+
+**tag** +
+In TIFF format, a tag is packet of numerical or ASCII values, which have a numerical "Tag" ID indicating their information content. +
+ [Source: GeoTIFF Format Specification 1.0]
